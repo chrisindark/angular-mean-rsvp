@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('mean-rsvp App', () => {
+describe('angular-mean-rsvp App', () => {
   let page: AppPage;
 
   beforeEach(() => {
